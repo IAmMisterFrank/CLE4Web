@@ -15,9 +15,9 @@ Vue.component('mainheader', {
     '            </ul>\n' +
     '\n' +
     '            <ul id="nav-mobile" class="sidenav">\n' +
-    '                <li><a href="#">Verhaal</a></li>\n' +
-    '                <li><a href="#">Team</a></li>\n' +
-    '                <li><a href="#">Contact</a></li>\n' +
+    '                <li><a href="story.html">Verhaal</a></li>\n' +
+    '                <li><a href="team.html">Team</a></li>\n' +
+    '                <li><a href="contact.html">Contact</a></li>\n' +
     '            </ul>\n' +
     '            <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>\n' +
     '        </div>\n' +
@@ -75,6 +75,10 @@ Vue.component('mainfooter', {
     '    </div>\n' +
     '  </footer>'
 });
+
+env : {
+    jquery: true
+}
 
 new Vue({
     el: '#MainPage',
