@@ -13,10 +13,10 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Blogs van de ontwikkelaars</h5>
                     <ul>
-                        <li><a class="white-text" href="#!">Lotte\'s Blog</a></li>
-                        <li><a class="white-text" href="#!">Zoë\'s Blog</a></li>
-                        <li><a class="white-text" href="#!">Jaspers Blog</a></li>
-                        <li><a class="white-text" href="https://stud.hosted.hr.nl/0940599" target="_blank">Frank\'s
+                        <li><a class="white-text" href="#!">Lotte's Blog</a></li>
+                        <li><a class="white-text" href="#!">Zoë's Blog</a></li>
+                        <li><a class="white-text" href="https://stud.hosted.hr.nl/0945136" target="_blank">Jaspers Blog</a></li>
+                        <li><a class="white-text" href="https://stud.hosted.hr.nl/0940599" target="_blank">Frank's
                             Blog</a></li>
                     </ul>
                 </div>

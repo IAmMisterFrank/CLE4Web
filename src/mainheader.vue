@@ -14,7 +14,7 @@
                 </ul>
 
                 <ul id="nav-mobile" class="sidenav">
-                    <li><a href="story.html">Verhaal</a></li>
+                    <li><routerVerhaal</a></li>
                     <li><a href="team.html">Team</a></li>
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
